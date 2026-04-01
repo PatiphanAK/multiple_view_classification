@@ -1,4 +1,4 @@
-# Multi-View Classification for Material Part Inspection
+# Classification for Material Part Inspection
 
 ## Problem Overview
 
